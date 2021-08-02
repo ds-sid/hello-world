@@ -1,2 +1,2 @@
 # hello-world
-test and learn
+test and learn and a bit about myself
